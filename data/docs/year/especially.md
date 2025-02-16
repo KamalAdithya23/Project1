@@ -1,0 +1,2 @@
+
+# Message claim detail position.
